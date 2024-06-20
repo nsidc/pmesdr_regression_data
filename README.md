@@ -17,3 +17,9 @@ There are 2 directories in the repo - one for v1 data (20180920) and one for v2 
  8. git commit -m "what this is for"
  9. git push
  10. Go to pmesdr repo and change the location of the regression data dir (PMESDR_REGRESS_DIR) in the set_pmesdr_environment.sh script to point to this new location
+
+## License
+This project is licensed under the [GNU GPL License](LICENSE).
+
+## Copyright
+Copyright (C) 2014 The Regents of the University of Colorado and Brigham Young University
